@@ -1,0 +1,7 @@
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 5\day 5\day 5\obj\Debug\day 5.csprojAssemblyReference.cache
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 5\day 5\day 5\obj\Debug\day 5.csproj.CoreCompileInputs.cache
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 5\day 5\day 5\bin\Debug\day 5.exe.config
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 5\day 5\day 5\bin\Debug\day 5.exe
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 5\day 5\day 5\bin\Debug\day 5.pdb
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 5\day 5\day 5\obj\Debug\day 5.exe
+D:\STUDY MATERIALS\MODULE 3\Programs\DAY 5\day 5\day 5\obj\Debug\day 5.pdb
